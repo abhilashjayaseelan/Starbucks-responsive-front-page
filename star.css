@@ -1,0 +1,223 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* navbar */
+.row.headBar{
+    width: 100%;
+    height: 100px;
+    border-style: solid;
+    border-bottom-color: #dee2eb;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+
+.starLogo {
+    height: 58px;
+    width: 65px;
+    margin-left: 42px;
+}
+
+.nav-item{
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: 800;
+    color: black;
+}
+
+.nav-item a:hover {
+    color: #006241;
+}
+
+.navbar-text a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+}
+
+.btn {
+    margin-left: 20px;
+    margin-right: 10px;
+    
+}
+/* /navbar */
+
+/* first section */
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.rewards {
+    letter-spacing: 0.06rem;
+    font-weight: 700;
+    color: white;   
+    position: relative;
+    padding-top: 2.5em;
+}
+
+@media (min-width: 1024px) {
+    .d1 {padding-top: 45px;
+        padding-left: 45px;
+        padding-bottom: 45px;
+        padding-right: 45px;
+    }
+}   
+
+@media (min-width: 1024px) {
+    .rewards{font-size: 50px;}
+}
+@media (max-width: 800px) {
+    .rewards{font-size: 28px;}
+}
+@media (max-width: 360px) {
+    .rewards{font-size: 15px;}
+}
+
+.starbucks {
+    color: white;
+    
+}
+
+@media (min-width: 1024px) {
+    .starbucks{font-size: 24px;}
+}
+@media (max-width: 800px) {
+    .starbucks{font-size: 22px;}
+}
+@media (max-width: 360px) {
+    .starbucks{font-size: 19px;}
+}
+/* /first section */
+
+/* second section */
+@media (min-width: 1024px) {
+    .d2 {padding-left: 45px;
+        padding-bottom: 45px;
+        padding-right: 45px; 
+    }
+}
+
+@media (max-width: 1024px) {
+    .d2 {padding-top: 10px; 
+    }
+}
+/* /second section */
+
+/* third */
+@media (min-width: 1024px) {
+    .d3 {padding-left: 45px;
+        padding-bottom: 45px;
+        padding-right: 45px; 
+    }
+}
+
+@media (max-width: 1024px) {
+    .d3 {padding-top: 10px; 
+    }
+}
+/* /third */
+
+/* fourth */
+.toasty {
+    letter-spacing: 0.06rem;
+    font-weight: 700;
+    color: white;   
+    position: relative;
+    padding-top: 2em;
+}
+
+@media (min-width: 1024px) {
+    .toasty{font-size: 24px;}
+}
+@media (max-width: 800px) {
+    .toasty{font-size: 22px;}
+}
+@media (max-width: 360px) {
+    .toasty{font-size: 19px;}
+}
+
+.smoked {
+    color: white;
+    
+}
+
+@media (min-width: 1024px) {
+    .smoked{font-size: 19px;}
+}
+@media (max-width: 800px) {
+    .smoked{font-size: 18px;}
+}
+@media (max-width: 360px) {
+    .smoked{font-size: 17px;}
+}
+
+
+@media (min-width: 1024px) {
+    .d4 {padding-left: 45px;
+        padding-bottom: 45px;
+        padding-right: 45px; 
+    }
+}
+
+@media (max-width: 1024px) {
+    .d4 {padding-top: 10px; 
+    }
+}
+/* fourth */
+
+/* last section*/
+.final {
+    border-style: solid;
+    border-bottom-color: #dee2eb;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+/* last section*/
+
+/* footer */
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#footer {
+    border-style: solid;
+    border-bottom-color: #dee2eb;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+
+#social {
+    margin-top: 30px;
+    margin-left: 18px;
+}
+
+#icon {
+    font-size: 35px;
+    width: 50px;
+}
+
+#fpolicy {
+    margin-top: 30px;
+    margin-left: 18px;
+    font-size: medium;
+}
+
+#rights {
+    margin-top: 10px;
+    margin-left: 18px;
+    font-size: small;
+}
+
